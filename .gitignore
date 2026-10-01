@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+apps/api/data/
+*.sqlite3
+.DS_Store
+
+# Datos reales de clientes/pedidos compartidos como referencia — no versionar (ver CLAUDE.md §6.7).
+SCSJ_REGISTRO_ANUAL_CERDO_2026 - MAQUILAS.pdf
+*.tsbuildinfo
